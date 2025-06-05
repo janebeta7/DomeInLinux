@@ -8,7 +8,7 @@ y de ahi los adaptaré para que funcionen en Debian 12 / Mx Linux
 - La idea es seguir usando un sketch Domemaster que pueda entrarle Otro Sketch Draw u otros videos o señales como ndi, o camara virtual .Al igual que hacía con Spout
 - Spout reemplazar por camara /dev/video10
 - Libreria de video 4 da problemnas en Linux. Arreglarlo
--  Optimizar la maneera de grabar el resultado
+-  Optimizar la maneera de grabar el resultado   
 
   
 
